@@ -1,4 +1,4 @@
-package com.sameer.bootProject2;
+package com.sam.bootProject2;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
